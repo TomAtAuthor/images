@@ -1,0 +1,618 @@
+[
+  {
+    "name": "St Paul's Cathedral",
+    "location": "City of London, London, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Westminster Abbey",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "Canterbury Cathedral",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "York Minster",
+    "location": "York, North Yorkshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Durham Cathedral",
+    "location": "Durham, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Salisbury Cathedral",
+    "location": "Salisbury, Wiltshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Bath Abbey",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Lincoln Cathedral",
+    "location": "Lincoln, Lincolnshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Winchester Cathedral",
+    "location": "Winchester, Hampshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St Giles' Cathedral",
+    "location": "Edinburgh, Scotland, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Gloucester Cathedral",
+    "location": "Gloucester, Gloucestershire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Lichfield Cathedral",
+    "location": "Lichfield, Staffordshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St Davids Cathedral",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Ely Cathedral",
+    "location": "Ely, Cambridgeshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Exeter Cathedral",
+    "location": "Exeter, Devon, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Southwark Cathedral",
+    "location": "Southwark, London, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Liverpool Anglican Cathedral",
+    "location": "Liverpool, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Birmingham Cathedral",
+    "location": "Birmingham, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Truro Cathedral",
+    "location": "Truro, Cornwall, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Chester Cathedral",
+    "location": "Chester, Cheshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Wells Cathedral",
+    "location": "Wells, Somerset, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Norwich Cathedral",
+    "location": "Norwich, Norfolk, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Ripon Cathedral",
+    "location": "Ripon, North Yorkshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St Albans Cathedral",
+    "location": "St Albans, Hertfordshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Rochester Cathedral",
+    "location": "Rochester, Kent, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Peterborough Cathedral",
+    "location": "Peterborough, Cambridgeshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Carlisle Cathedral",
+    "location": "Carlisle, Cumbria, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Wakefield Cathedral",
+    "location": "Wakefield, West Yorkshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Chelmsford Cathedral",
+    "location": "Chelmsford, Essex, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Guildford Cathedral",
+    "location": "Guildford, Surrey, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Derby Cathedral",
+    "location": "Derby, Derbyshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Coventry Cathedral",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "Blackburn Cathedral",
+    "location": "Blackburn, Lancashire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Bradford Cathedral",
+    "location": "Bradford, West Yorkshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Leicester Cathedral",
+    "location": "Leicester, Leicestershire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Portsmouth Cathedral",
+    "location": "Portsmouth, Hampshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Newcastle Cathedral",
+    "location": "Newcastle upon Tyne, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Bangor Cathedral",
+    "location": "Bangor, North Wales, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St Asaph Cathedral",
+    "location": "St Asaph, Denbighshire, Wales, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Brecon Cathedral",
+    "location": "Brecon, Powys, Wales, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Glasgow Cathedral",
+    "location": "Glasgow, Scotland, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St Magnus Cathedral",
+    "location": "Kirkwall, Orkney, Scotland, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Paisley Abbey",
+    "location": "Paisley, Renfrewshire, Scotland, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Iona Abbey",
+    "location": "Isle of Iona, Scotland, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Melrose Abbey",
+    "location": "Melrose, Scottish Borders, Scotland, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Jedburgh Abbey",
+    "location": "Jedburgh, Scottish Borders, Scotland, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St Mary Redcliffe",
+    "location": "Bristol, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Temple Church",
+    "location": "London, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St Martin-in-the-Fields",
+    "location": "London, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "All Saints\u2019 Church",
+    "location": "Bakewell, Derbyshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St George\u2019s Chapel",
+    "location": "Windsor Castle, Berkshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Holy Trinity Church",
+    "location": "Stratford-upon-Avon, Warwickshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St Mary the Virgin",
+    "location": "Oxford, Oxfordshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Great St Mary's",
+    "location": "Cambridge, Cambridgeshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Beverley Minster",
+    "location": "Beverley, East Yorkshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Tewkesbury Abbey",
+    "location": "Tewkesbury, Gloucestershire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Selby Abbey",
+    "location": "Selby, North Yorkshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Hexham Abbey",
+    "location": "Hexham, Northumberland, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St Mary\u2019s, Whitby",
+    "location": "Whitby, North Yorkshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St Laurence Church",
+    "location": "Ludlow, Shropshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Church of the Holy Rude",
+    "location": "Stirling, Scotland, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "St Bartholomew the Great",
+    "location": "London, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Romsey Abbey",
+    "location": "Romsey, Hampshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Christ Church Cathedral",
+    "location": "Oxford, Oxfordshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Malmesbury Abbey",
+    "location": "Malmesbury, Wiltshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Lanercost Priory",
+    "location": "Lanercost, Cumbria, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Brinkburn Priory",
+    "location": "Brinkburn, Northumberland, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Fountains Abbey",
+    "location": "Ripon, North Yorkshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Rievaulx Abbey",
+    "location": "Rievaulx, North Yorkshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Wymondham Abbey",
+    "location": "Wymondham, Norfolk, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Bolton Abbey",
+    "location": "Skipton, North Yorkshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Dunfermline Abbey",
+    "location": "Dunfermline, Fife, Scotland, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Waltham Abbey",
+    "location": "Waltham Abbey, Essex, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Kilpeck Church",
+    "location": "Kilpeck, Herefordshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Hailes Church",
+    "location": "Hailes, Gloucestershire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Little Gidding Church",
+    "location": "Little Gidding, Cambridgeshire, England, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  },
+  {
+    "name": "Rosslyn Chapel",
+    "location": "Midlothian, Scotland, UK",
+    "image_url": "",
+    "source": "",
+    "license": "",
+    "attribution": ""
+  }
+]
