@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Canterbury Cathedral",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_%2834735120691%29.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Dr Bob Hall"
+  },
+  {
+    "name": "Westminster Abbey",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Westminster_Abbey_-_geograph.org.uk_-_2510870.jpg",
+    "source": "Wikimedia Commons (Geograph)",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Paul Farmer"
+  },
+  {
+    "name": "St Paul's Cathedral",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons (Geograph)",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bath_Abbey_-_geograph.org.uk_-_2037824.jpg",
+    "source": "Wikimedia Commons (Geograph)",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Paul Gillett"
+  },
+  {
+    "name": "Coventry Cathedral",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Coventry_Cathedral_2018.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "DeFacto"
+  },
+  {
+    "name": "York Minster",
+    "location": "York, North Yorkshire, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Outside_York_Minster_-_geograph.org.uk_-_2496011.jpg",
+    "source": "Wikimedia Commons (Geograph)",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Michael Fox"
+  },
+  {
+    "name": "St Davids Cathedral",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons (Geograph)",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  }
+]
