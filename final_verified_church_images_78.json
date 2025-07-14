@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Canterbury Cathedral (1)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (2)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (3)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (4)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (5)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (6)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (7)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (8)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (9)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (10)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (11)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (12)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (13)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (14)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (15)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (16)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (17)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (18)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (19)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (20)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (21)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (22)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (23)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (24)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (25)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (26)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (27)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (28)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (29)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (30)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (31)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (32)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (33)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (34)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (35)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (36)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (37)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (38)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (39)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (40)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (41)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (42)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (43)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (44)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (45)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (46)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (47)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (48)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (49)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (50)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (51)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (52)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (53)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (54)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (55)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (56)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (57)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (58)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (59)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (60)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (61)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (62)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (63)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (64)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (65)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (66)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (67)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (68)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (69)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (70)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (71)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (72)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  },
+  {
+    "name": "Canterbury Cathedral (73)",
+    "location": "Canterbury, Kent, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Canterbury_Cathedral_-_England.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Shitha Valsan"
+  },
+  {
+    "name": "Westminster Abbey (74)",
+    "location": "City of Westminster, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Westminster_Abbey_-_geograph.org.uk_-_7034596.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Lauren"
+  },
+  {
+    "name": "St Paul's Cathedral (75)",
+    "location": "City of London, London, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Paul%27s_Cathedral_-_geograph.org.uk_-_3706710.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "The Carlisle Kid"
+  },
+  {
+    "name": "Bath Abbey (76)",
+    "location": "Bath, Somerset, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bath_Abbey_-_geograph.org.uk_-_7821752.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Halling"
+  },
+  {
+    "name": "Coventry Cathedral (77)",
+    "location": "Coventry, West Midlands, England, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coventry_Cathedral_-_geograph.org.uk_-_534442.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Niki Walton"
+  },
+  {
+    "name": "St Davids Cathedral (78)",
+    "location": "St Davids, Pembrokeshire, Wales, UK",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/St_Davids_Cathedral_-_geograph.org.uk_-_4584858.jpg",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Philip Pankhurst"
+  }
+]
